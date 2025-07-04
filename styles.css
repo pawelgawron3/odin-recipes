@@ -10,6 +10,8 @@ body{
     text-align: center;
     border: 2px dotted rgb(197, 42, 171);
     border-radius: 20px;
+    font-family: Tahoma, sans-serif;
+    background: linear-gradient(to right, #3f87a6, #ebf8e1, #f69d3c)
 }
 li{
     display: inline;
